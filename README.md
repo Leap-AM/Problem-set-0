@@ -3,4 +3,4 @@
 Computer Science course
 
 Hi there, I like pizza and turtles
-Turtles sleep on pizza boxes made of glass
+Turtles sleep on pizza boxes 
